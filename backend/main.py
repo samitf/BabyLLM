@@ -57,12 +57,16 @@ def chat(msg: Message):
 
     # Merge last 3 answers
     context = " ".join([m["answer"] for m in memory[-3:]])
-    prompt = f"question: {user_q}\ncontext: {context}"
-
+    prompt = f"""Answer the following question in a short and clear way, no more than 3-4 lines. 
+    Avoid extra elaboration or unnecessary examples.
+    
+    Question: {user_q}
+    """
+    
     payload = {
         "model": "deepseek/deepseek-r1:free",
         "messages": [
-            {"role": "system", "content": "You are a helpful assistant."},
+            {"role": "system", "content": "You are Thursday, a helpful but concise assistant who gives short, clear answers and avoids repeating known information."},
             {"role": "user", "content": prompt}
         ]
     }
