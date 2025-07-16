@@ -4,3 +4,4 @@ pydantic
 transformers
 sentence-transformers
 torch
+sentencepiece
