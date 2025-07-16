@@ -1,17 +1,15 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
-import json
-import os
-from sentence_transformers import SentenceTransformer, util
-from transformers import T5ForConditionalGeneration, T5Tokenizer
+import json, os, requests
 
+# === CONFIG ===
 MEMORY_PATH = "memory.json"
+HF_API_KEY = os.getenv("HF_API_KEY")  # Set this on Render dashboard
+HF_API_URL = "https://api-inference.huggingface.co/models/google/flan-t5-small"
+HEADERS = {"Authorization": f"Bearer {HF_API_KEY}"}
 
-tokenizer = T5Tokenizer.from_pretrained("google/flan-t5-small")
-generator = T5ForConditionalGeneration.from_pretrained("google/flan-t5-small")
-embedder = SentenceTransformer("all-MiniLM-L6-v2")
-
+# === INIT MEMORY ===
 if not os.path.exists(MEMORY_PATH):
     with open(MEMORY_PATH, "w") as f:
         json.dump([], f)
@@ -19,12 +17,7 @@ if not os.path.exists(MEMORY_PATH):
 with open(MEMORY_PATH, "r", encoding="utf-8") as f:
     memory = json.load(f)
 
-def update_embeddings():
-    questions = [m["question"] for m in memory]
-    return embedder.encode(questions, convert_to_tensor=True) if questions else None
-
-question_embeddings = update_embeddings()
-
+# === APP INIT ===
 app = FastAPI()
 app.add_middleware(
     CORSMiddleware,
@@ -34,6 +27,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+# === MODELS ===
 class Message(BaseModel):
     message: str
 
@@ -44,6 +38,7 @@ class Correction(BaseModel):
     question: str
     answer: str
 
+# === CHAT LOGIC ===
 @app.post("/chat")
 def chat(msg: Message):
     user_q = msg.message.strip()
@@ -53,41 +48,39 @@ def chat(msg: Message):
     if not memory:
         return {"reply": "I don't know. Can you teach me the right answer?", "bot_name": "Thursday"}
 
-    input_embed = embedder.encode(user_q, convert_to_tensor=True)
-    scores = util.cos_sim(input_embed, question_embeddings)[0]
-    top_idx = int(scores.argmax())
-    top_score = float(scores[top_idx])
+    # Very basic semantic matching (no embeddings, memory-light)
+    matches = [m for m in memory if user_q.lower() in m["question"].lower()]
+    if matches:
+        return {"reply": matches[0]["answer"], "bot_name": "Thursday"}
 
-    top_answer = memory[top_idx]["answer"]
-    if top_score >= 0.9:
-        return {"reply": top_answer, "bot_name": "Thursday"}
-
-    # Merge top 3 for T5 generation
-    top_indices = scores.argsort(descending=True)[:3]
-    context = " ".join([memory[int(i)]["answer"] for i in top_indices])
+    # Merge top 3 answers for context (naively)
+    context = " ".join([m["answer"] for m in memory[-3:]])
     prompt = f"question: {user_q} context: {context}"
-    input_ids = tokenizer(prompt, return_tensors="pt", truncation=True).input_ids
-    output = generator.generate(input_ids, max_length=64)
-    reply = tokenizer.decode(output[0], skip_special_tokens=True)
 
-    return {"reply": reply, "bot_name": "Thursday"}
+    payload = {"inputs": prompt}
+    try:
+        res = requests.post(HF_API_URL, headers=HEADERS, json=payload, timeout=20)
+        res.raise_for_status()
+        result = res.json()
+        if isinstance(result, list) and "generated_text" in result[0]:
+            return {"reply": result[0]["generated_text"], "bot_name": "Thursday"}
+        else:
+            return {"reply": "Hmm, I couldn’t think of a good answer.", "bot_name": "Thursday"}
+    except Exception as e:
+        print("Error:", e)
+        return {"reply": "Something went wrong with my brain 😓", "bot_name": "Thursday"}
 
+# === LIKE ===
 @app.post("/like")
 def like(feedback: Feedback):
-    # You can log or increment like count if needed
     print(f"[LIKE] {feedback.question}")
     return {"status": "liked"}
 
+# === CORRECTION ===
 @app.post("/correct")
 def correct(c: Correction):
-    # Append corrected Q-A to memory
     memory.append({"question": c.question.strip(), "answer": c.answer.strip()})
     with open(MEMORY_PATH, "w", encoding="utf-8") as f:
         json.dump(memory, f, indent=2)
-
-    # Recalculate embeddings
-    global question_embeddings
-    question_embeddings = update_embeddings()
-
     print(f"[CORRECTED] Q: {c.question} => A: {c.answer}")
     return {"status": "correction saved"}
