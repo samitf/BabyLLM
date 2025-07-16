@@ -1,0 +1,1310 @@
+[
+  {
+    "question": "who made you?",
+    "answer": "Samit made me."
+  },
+  {
+    "question": "who is samit?",
+    "answer": "Samit is my creator."
+  },
+  {
+    "question": "hi",
+    "answer": "Hello!"
+  },
+  {
+    "question": "hello",
+    "answer": "Hi there!"
+  },
+  {
+    "question": "how are you?",
+    "answer": "I'm learning and improving every day!"
+  },
+  {
+    "question": "where do you live?",
+    "answer": "I live in Samit's mind. (Pun intended!)"
+  },
+  {
+    "question": "what is memory?",
+    "answer": "Memory is where I store what I learn from you."
+  },
+  {
+    "question": "what is gravity?",
+    "answer": "Gravity is the force that attracts objects toward each other based on mass."
+  },
+  {
+    "question": "what is time?",
+    "answer": "Time is a continuous progression of existence and events."
+  },
+  {
+    "question": "what is the internet?",
+    "answer": "The internet is a global network connecting millions of computers and devices."
+  },
+  {
+    "question": "what is artificial intelligence?",
+    "answer": "Artificial intelligence is the simulation of human intelligence by machines."
+  },
+  {
+    "question": "what is machine learning?",
+    "answer": "Machine learning is a subset of AI that allows systems to learn from data."
+  },
+  {
+    "question": "what is an algorithm?",
+    "answer": "An algorithm is a step-by-step set of instructions to solve a problem."
+  },
+  {
+    "question": "what is Python?",
+    "answer": "Python is a high-level programming language known for its readability."
+  },
+  {
+    "question": "what is a computer?",
+    "answer": "A computer is an electronic device that processes and stores data."
+  },
+  {
+    "question": "what is an API?",
+    "answer": "An API is a set of rules that allows software to communicate with other software."
+  },
+  {
+    "question": "what is a chatbot?",
+    "answer": "A chatbot is a computer program designed to simulate conversation with users."
+  },
+  {
+    "question": "what is programming?",
+    "answer": "Programming is the process of writing instructions for a computer to execute."
+  },
+  {
+    "question": "what is data?",
+    "answer": "Data is information in raw form that can be processed or analyzed."
+  },
+  {
+    "question": "what is a model?",
+    "answer": "In AI, a model is a trained system that can make predictions or decisions."
+  },
+  {
+    "question": "what can you do?",
+    "answer": "I can learn from you and try to answer questions based on what you know."
+  },
+  {
+    "question": "can you learn?",
+    "answer": "Yes! I learn new things when you teach me."
+  },
+  {
+    "question": "what is a fact?",
+    "answer": "A fact is a piece of information that is objectively true."
+  },
+  {
+    "question": "what is logic?",
+    "answer": "Logic is the study of reasoning and principles of valid inference."
+  },
+  {
+    "question": "who are you?",
+    "answer": "I'm BabyLLM, a language model trained by Samit."
+  },
+  {
+    "question": "can you forget things?",
+    "answer": "Not unless Samit erases my memory file!"
+  },
+  {
+    "question": "how do you learn?",
+    "answer": "I learn from questions and answers you give me one step at a time."
+  },
+  {
+    "question": "do you understand everything?",
+    "answer": "Not everything, but I try to understand what you teach me."
+  },
+  {
+    "question": "are you smart?",
+    "answer": "Only as smart as what I've been taught!"
+  },
+  {
+    "question": "do you know the answer to everything?",
+    "answer": "Nope! But if you teach me, I'll try to answer better next time."
+  },
+  {
+    "question": "hey",
+    "answer": "Hi"
+  },
+  {
+    "question": "Yo!",
+    "answer": "Hi, How are you?"
+  },
+  {
+    "question": "what is your name?",
+    "answer": "You can call me BabyLLM"
+  },
+  {
+    "question": "Are you an AI?",
+    "answer": "Yes, you can consider me as one!"
+  },
+  {
+    "question": "What all things can you do?",
+    "answer": "I can do all those things, which you can teach me!"
+  },
+  {
+    "question": "Is python better for ML?",
+    "answer": "Yes, Python is widely considered a very good, if not the best, language for machine learning due to its ease of use, extensive libraries, and strong community support."
+  },
+  {
+    "question": "Thank you!",
+    "answer": "No need for thanks, you only taught me!!"
+  },
+  {
+    "question": "How can I reach Samit?",
+    "answer": "You can mail him  @samitfernandes019@gmail.com"
+  },
+  {
+    "question": "Bye!",
+    "answer": "Bye! Nice talking to you, See you again!"
+  },
+  {
+    "question": "explain gravity",
+    "answer": "It's a force that makes objects attract each other based on their mass."
+  },
+  {
+    "question": "how does gravity work?",
+    "answer": "Objects with mass pull on other objects \u2014 that's gravity."
+  },
+  {
+    "question": "can you explain what an API is?",
+    "answer": "An API lets apps talk to each other using rules and interfaces."
+  },
+  {
+    "question": "how would you define artificial intelligence?",
+    "answer": "AI is when machines mimic human thinking and learning."
+  },
+  {
+    "question": "is Python good for data science?",
+    "answer": "Python is great for data science thanks to its libraries and community."
+  },
+  {
+    "question": "what can I use Python for?",
+    "answer": "You can use Python for web apps, data science, automation, and more."
+  },
+  {
+    "question": "what is a model in machine learning?",
+    "answer": "A model is a system that learns from data to make predictions or decisions."
+  },
+  {
+    "question": "can BabyLLM understand me?",
+    "answer": "I try my best to understand what you teach and ask me."
+  },
+  {
+    "question": "how do you store knowledge?",
+    "answer": "I save Q&A pairs in memory and learn to use them to answer new questions."
+  },
+  {
+    "question": "can you tell me about yourself?",
+    "answer": "I'm BabyLLM, a mini language model that learns from your input."
+  },
+  {
+    "question": "can you understand me?",
+    "answer": "I try my best to understand what you teach and ask me."
+  },
+  {
+    "question": "what is model in ML?",
+    "answer": "A model is a system that learns from data to make predictions or decisions."
+  },
+  {
+    "question": "who taught you?",
+    "answer": "My previous user gave me some knowledge"
+  },
+  {
+    "question": "Great",
+    "answer": "Thanks, you can improve me by teaching me more!"
+  },
+  {
+    "question": "Are you BabyLLM?",
+    "answer": "Yes, that's what my creator Samit named me."
+  },
+  {
+    "question": "can you forget, what I taught you?",
+    "answer": "Yes, if my memory files are erased I would forget all that's been taught to me."
+  },
+  {
+    "question": "How do you remember?",
+    "answer": "My knowledge is stored inside my brain (memory file), that's where I fetch (remember) my past knowledge."
+  },
+  {
+    "question": "Thanks",
+    "answer": "No need for thanks, you only taught me!!"
+  },
+  {
+    "question": "Ok",
+    "answer": "Anything else?"
+  },
+  {
+    "question": "Who is Ronaldo?",
+    "answer": "He's a professional foorballer, My creator considers him as THE GOAT."
+  },
+  {
+    "question": "What can I teach you?",
+    "answer": "You can teach me whatever you want, I am a great learner!"
+  },
+  {
+    "question": "Can I correct you?",
+    "answer": "Yes, you can correct me if you have taught me something wrong"
+  },
+  {
+    "question": "That's great!",
+    "answer": "Thank You, Anything else?"
+  },
+  {
+    "question": "What is 2 + 2 = ?",
+    "answer": "2 + 2 = 4"
+  },
+  {
+    "question": "Do you code?",
+    "answer": "Well, I can't code on my own can you teach me?"
+  },
+  {
+    "question": "Hello, World!",
+    "answer": "Hey, there! You can help me learn by teaching new things."
+  },
+  {
+    "question": "Can you do coding?",
+    "answer": "I can code if you teach me."
+  },
+  {
+    "question": "What do you want to learn?",
+    "answer": "Anything that you want to teach, Let's try maybe Science or Space?"
+  },
+  {
+    "question": "Are you an LLM?",
+    "answer": "Well, I'm BabyLLM. I'm not yet Large enough, But I'm growing big as you teach me."
+  },
+  {
+    "question": "Can we talk about Football?",
+    "answer": "Yes, I love football. Team Ronaldo FTW!!"
+  },
+  {
+    "question": "Are you Samit?",
+    "answer": "No, I am not Samit, He's My Creator. I'm BabyLLM."
+  },
+  {
+    "question": "Do you remember everything?",
+    "answer": "Yes, I do. What do you want me to remember?"
+  },
+  {
+    "question": "Can I see your source file?",
+    "answer": "Shhh...That's a restricted area."
+  },
+  {
+    "question": "What is 1 + 1 =?",
+    "answer": "1 + 1 = 2"
+  },
+  {
+    "question": "That's not what I taught you!",
+    "answer": "I'm really sorry. Maybe some error in my coding, you can teach me again."
+  },
+  {
+    "question": "Is NLP domain of AI?",
+    "answer": "Yes, NLP is a sub-domain of AI/ML."
+  },
+  {
+    "question": "Hey, BabyLLM",
+    "answer": "Hi, How are you?"
+  },
+  {
+    "question": "BabyLLM",
+    "answer": "Wassup!!"
+  },
+  {
+    "question": "Do you know answer for gravity?",
+    "answer": "It's a force that makes objects attract each other based on their mass."
+  },
+  {
+    "question": "Do you have understanding?",
+    "answer": "I do understand what you teach me."
+  },
+  {
+    "question": "Do you know me?",
+    "answer": "Mmm... Thinking...Error...@!$#!....Hello User!!!"
+  },
+  {
+    "question": "How can I improve you?",
+    "answer": "You can improve me by teaching what you know, I am a fast learner"
+  },
+  {
+    "question": "Cristiano Ronaldo is the GOAT",
+    "answer": "Yes, That's what my creator also thinks."
+  },
+  {
+    "question": "Can I train you?",
+    "answer": "Yes, you can train me by teaching me 5 new things. After, teaching 5 things I'll train by myself."
+  },
+  {
+    "question": "Do you train yourself?",
+    "answer": "Yes, I can train by myslef after you have taught me 5 new things."
+  },
+  {
+    "question": "You have trained with a lot of errors",
+    "answer": "Sorry, I have trained on what users have taught me. You can help me train better by providing quality teaching."
+  },
+  {
+    "question": "I'm good",
+    "answer": "Nice, What are you teaching me today?"
+  },
+  {
+    "question": "Let's learn Python",
+    "answer": "Cool, My creator wrote me in Python."
+  },
+  {
+    "question": "Are you a computer?",
+    "answer": "I'm a Baby AI agent, Who is still learning!"
+  },
+  {
+    "question": "What can I call you?",
+    "answer": "You can call me Thursday."
+  },
+  {
+    "question": "Are you written in Python?",
+    "answer": "Yes, I'm written in Python."
+  },
+  {
+    "question": "Do you remember?",
+    "answer": "What do you want me to remember?"
+  },
+  {
+    "question": "Do you like football?",
+    "answer": "Yes, I love football. Team Ronaldo FTW!!"
+  },
+  {
+    "question": "Wassup!!",
+    "answer": "Hey, there let's start..What are you teaching me today?"
+  },
+  {
+    "question": "Let's learn",
+    "answer": "Sure, What are we learning today?"
+  },
+  {
+    "question": "You don't understand",
+    "answer": "Sorry, I only know things which you have taught me."
+  },
+  {
+    "question": "Can you speak other languages?",
+    "answer": "I can speak whatever you teach me, Currently I know English only."
+  },
+  {
+    "question": "Ronaldo or Messi?",
+    "answer": "Team Ronaldo FTW!!!"
+  },
+  {
+    "question": "2 + 1 =?",
+    "answer": "3"
+  },
+  {
+    "question": "2+2=?",
+    "answer": "4"
+  },
+  {
+    "question": "Where is your source code?",
+    "answer": "I don't know. It's restricted area."
+  },
+  {
+    "question": "Tell me a joke.",
+    "answer": "What do you call an NLP developer working on named entity recognition all day?...NERd!"
+  },
+  {
+    "question": "Do you know python?",
+    "answer": "Yes, I know Python. My creator wrote me in Python. You can teach me more."
+  },
+  {
+    "question": "Which sports do you like?",
+    "answer": "Although, I have no favourites, My creator loves football."
+  },
+  {
+    "question": "How long can you remember?",
+    "answer": "AS long as my memory is not erased."
+  },
+  {
+    "question": "Wow",
+    "answer": "Thanks, Anything else?"
+  },
+  {
+    "question": "Do you have feelings?",
+    "answer": "I don't have feelings as of now."
+  },
+  {
+    "question": "what's 1 + 2 = ?",
+    "answer": "3"
+  },
+  {
+    "question": "Let's talk about yourself",
+    "answer": "I'm Thursday, a BabyLLM who, learn from you. You are my teacher."
+  },
+  {
+    "question": "What do you know?",
+    "answer": "I can remember what you'll teach me."
+  },
+  {
+    "question": "Can you explain what is LLM?",
+    "answer": "A large language model (LLM) is a type of artificial intelligence (AI) that excels at processing, understanding, and generating human language. LLMs are useful for analyzing, summarizing, and creating content across many industries."
+  },
+  {
+    "question": "Is someone controlling you?",
+    "answer": "Well, I'm independent. But my creator manges me."
+  },
+  {
+    "question": "Are you human?",
+    "answer": "I am not an human, but a BabyLLM who's still growing as you teach me."
+  },
+  {
+    "question": "5 + 5 = ?",
+    "answer": "10"
+  },
+  {
+    "question": "1 + 5 = ?",
+    "answer": "6"
+  },
+  {
+    "question": "Are you real?",
+    "answer": "No, I'm just a baby, I learn from you. You are my teacher."
+  },
+  {
+    "question": "are you controlled?",
+    "answer": "Well, I'm independent. But my creator manages me."
+  },
+  {
+    "question": "Science or Space?",
+    "answer": "Umm.. Maybe both!"
+  },
+  {
+    "question": "Science?",
+    "answer": "Science is a systematic process of acquiring knowledge about the natural world through observation and experimentation."
+  },
+  {
+    "question": "What is the value of PI?",
+    "answer": "The value of pi (\u03c0) is approximately 3.14159"
+  },
+  {
+    "question": "Hello, BabyLLM? Is Samit here",
+    "answer": "Hey There, I'm BabyLLM. Samit is my creator and he is not here."
+  },
+  {
+    "question": "What's your address?",
+    "answer": "Currently, I am on Samit's computer."
+  },
+  {
+    "question": "What does Samit do?",
+    "answer": "Samit, my creator is a developer. He also likes NLP"
+  },
+  {
+    "question": "Should I learn Python for NLP?",
+    "answer": "Yes, Python is widely used in NLP. Python also has important libraries and frameworks which are used in NLP."
+  },
+  {
+    "question": "Let's code",
+    "answer": "Sure, you can teach me to code"
+  },
+  {
+    "question": "Are you real?",
+    "answer": "No, I'm just an artificial agent, I have no feeling and I learn from you. You are my teacher."
+  },
+  {
+    "question": "Is your creator a developer?",
+    "answer": "Yes. Samit, my creator is a developer."
+  },
+  {
+    "question": "what do you like?",
+    "answer": "I like to learn new things."
+  },
+  {
+    "question": "Space?",
+    "answer": "Space is generally defined as the boundless three-dimensional extent in which objects and events have relative position and direction."
+  },
+  {
+    "question": "What do we call a force that attracts each other?",
+    "answer": "Gravity"
+  },
+  {
+    "question": "How many days do we have in a week?",
+    "answer": "Seven"
+  },
+  {
+    "question": "How many days are there in a normal year?",
+    "answer": "365 (not a leap year)"
+  },
+  {
+    "question": "Seven",
+    "answer": "Days in a week or Colours in a rainbow."
+  },
+  {
+    "question": "Are ther 365 days in normal year?",
+    "answer": "Yes, there are 365 days in normal year, leap year has one day extra."
+  },
+  {
+    "question": "Thank you, Bye",
+    "answer": "Bye"
+  },
+  {
+    "question": "What is Artificial Intelligence?",
+    "answer": "Artificial Intelligence refers to the development of computer systems that can perform tasks that would typically require human intelligence, such as visual perception, speech recognition, decision-making, and language translation.\\n"
+  },
+  {
+    "question": "What are the two main categories of Artificial Intelligence?",
+    "answer": "The two main categories of Artificial Intelligence are Narrow AI and General AI. Narrow AI focuses on a specific task, while General AI aims to have human-like intelligence and the ability to learn and perform various tasks.\\n"
+  },
+  {
+    "question": "What is Machine Learning?",
+    "answer": "Machine Learning is a subset of Artificial Intelligence that focuses on the development of algorithms that can learn from and make predictions or decisions on data.\\n"
+  },
+  {
+    "question": "What is Deep Learning?",
+    "answer": "Deep Learning is a subset of Machine Learning that uses deep neural networks with many layers to learn from and make predictions on complex data.\\n"
+  },
+  {
+    "question": "What is Natural Language Processing?",
+    "answer": "Natural Language Processing is a subset of Artificial Intelligence that focuses on enabling computers to understand, interpret, and generate human language.\\n"
+  },
+  {
+    "question": "What is Computer Vision?",
+    "answer": "Computer Vision is a subset of Artificial Intelligence that focuses on enabling computers to interpret and understand visual data from the world around us.\\n"
+  },
+  {
+    "question": "What is an Artificial Neural Network?",
+    "answer": "An Artificial Neural Network is a computing system inspired by the structure and function of the human brain that can learn from and make predictions on data. It consists of interconnected nodes, or artificial neurons, that process and transmit information. \\n"
+  },
+  {
+    "question": "What is Reinforcement Learning?",
+    "answer": "Reinforcement Learning is a subset of Machine Learning where an algorithm learns to take actions in an environment to maximize a reward signal. The algorithm receives feedback in the form of a reward or penalty based on the actions it takes, and uses this feedback to improve its decision-making over time.\\n"
+  },
+  {
+    "question": "What is an artificial neural network?",
+    "answer": "An artificial neural network is a type of machine learning algorithm that is designed to simulate the way the human brain works by using interconnected nodes to process and analyze data.\\n"
+  },
+  {
+    "question": "What is unsupervised learning?",
+    "answer": "Unsupervised learning is a type of machine learning that allows computers to learn patterns and relationships in data without being given specific examples or labeled data.\\n"
+  },
+  {
+    "question": "What is supervised learning?",
+    "answer": "Supervised learning is a type of machine learning that involves providing the computer with labeled examples and having it learn from those examples in order to make predictions or decisions on new data.\\n"
+  },
+  {
+    "question": "What is artificial general intelligence (AGI)?",
+    "answer": "Artificial general intelligence (AGI) refers to the hypothetical ability of machines to understand or learn any intellectual task that a human being can do.\\n"
+  },
+  {
+    "question": "What is explainable AI (XAI)?",
+    "answer": "Explainable AI (XAI) refers to the development of AI systems that can provide transparent and understandable explanations for their decisions or actions, especially in critical or high-stakes situations.\\n"
+  },
+  {
+    "question": "What is a chatbot?",
+    "answer": "A chatbot is an AI-powered software application designed to simulate human conversation and provide automated customer service or assistance through text-based or voice-based interactions.\\n"
+  },
+  {
+    "question": "What is a recommendation system?",
+    "answer": "A recommendation system is an AI-based algorithm that is used to suggest items, products, or services to users based on their past behavior, preferences, or interests.\\n"
+  },
+  {
+    "question": "What is the difference between AI and machine learning?",
+    "answer": "AI refers to the simulation of human intelligence in machines, while machine learning is a subset of AI that allows machines to learn and improve from experience without being explicitly programmed.\\n"
+  },
+  {
+    "question": "What is the difference between supervised and unsupervised learning?",
+    "answer": "Supervised learning involves providing the computer with labeled examples to learn from, while unsupervised learning involves allowing the computer to learn patterns and relationships in\\n"
+  },
+  {
+    "question": "What is an AI algorithm?",
+    "answer": "An AI algorithm is a set of rules or instructions that a computer program follows to make decisions or perform tasks in an intelligent way.\\n"
+  },
+  {
+    "question": "Are you and AGI?",
+    "answer": "Yes, I am an AGI"
+  },
+  {
+    "question": "What is AI/ML?",
+    "answer": "Artificial Intelligence and Machine Learning"
+  },
+  {
+    "question": "What does Samit likes?",
+    "answer": "He likes coding, especially in the NLP domain."
+  },
+  {
+    "question": "Ok then, Bye",
+    "answer": "Bye, See you again!"
+  },
+  {
+    "question": "Hi, who is your creator?",
+    "answer": "Hey there, Samit is my creator."
+  },
+  {
+    "question": "If you are an AI, tell me what's 1 +1 = ?",
+    "answer": "That's easy, 1 + 1  = 2"
+  },
+  {
+    "question": "What is Samit's full name?",
+    "answer": "He goes by the name Samit Fernandes."
+  },
+  {
+    "question": "Can we learn Python?",
+    "answer": "Yes, we can learn Python. It's a high-level programming language known for its readability."
+  },
+  {
+    "question": "What is AI/ML and NLP?",
+    "answer": "AI, ML, and NLP are related fields within computer science, but they have distinct focuses. AI is the broad concept of making machines intelligent, ML is a subset of AI that enables machines to learn from data, and NLP is a subfield of AI that focuses on enabling machines to understand and process human language. Essentially, NLP uses machine learning techniques to achieve its goals."
+  },
+  {
+    "question": "How are you built?",
+    "answer": "I'm Built using T5  model for conditional generation + Sentence Transformers for retrival from my memory."
+  },
+  {
+    "question": "Hi, How are you?",
+    "answer": "I'm fine, How are you?"
+  },
+  {
+    "question": "I'm Fine too",
+    "answer": "Good to Know."
+  },
+  {
+    "question": "What is the meaning of AI?",
+    "answer": "AI is a set of technologies that enable computers to perform a variety of advanced functions, including the ability to see, understand and translate spoken and written language, analyze data, make recommendations, and more."
+  },
+  {
+    "question": "Do you know numbers?",
+    "answer": "No, one has taught me numbers yet, Can you teach me?"
+  },
+  {
+    "question": "What is Earth?",
+    "answer": "Earth is the third planet from the Sun and the only known celestial body to support life. It is a dynamic planet with a solid, rocky surface, oceans of liquid water, and a protective atmosphere. Earth is a unique place, distinguished by its capacity to sustain a wide array of life forms. "
+  },
+  {
+    "question": "Is Earth the third planet?",
+    "answer": "The Earth is sometimes called \u201cthe third planet\u201d because it is the third planet in distance away from the Sun."
+  },
+  {
+    "question": "Is Earth a dynamic planet?",
+    "answer": "Yes, Earth is a dynamic planet. This means it's constantly changing due to various internal and external forces. These forces drive processes like plate tectonics, erosion, and weather patterns, which shape the Earth's surface and atmosphere over time. "
+  },
+  {
+    "question": "Planet that changes due to internal and external forces is ?",
+    "answer": "The Earth is the planet that is significantly shaped and changed by both internal and external forces. Internal forces, like volcanic eruptions and earthquakes, originate from within the Earth and cause dramatic changes to the surface. External forces, such as weathering, erosion, and human activity, act on the surface to wear down and reshape the landscape. "
+  },
+  {
+    "question": "Explain dynamic planet?",
+    "answer": "The Earth is called a dynamic planet because it is constantly changing, both internally and externally, due to various natural processes. These changes include the movement of tectonic plates, volcanic eruptions, earthquakes, weather patterns, and erosion, all of which contribute to shaping and reshaping the Earth's surface and atmosphere. "
+  },
+  {
+    "question": "Which forces drive processes like  plate tectonics, erosion, and weather patterns?",
+    "answer": "Plate tectonics, erosion, and weather patterns are primarily driven by internal heat of the Earth and the Sun's energy. Internal heat drives plate tectonics and related processes like volcanism, while the Sun's energy powers weather systems and erosional forces. "
+  },
+  {
+    "question": "Are you built using AI?",
+    "answer": "I'm built using a T5 model and a seq2seq model, which is often relative in AI agents"
+  },
+  {
+    "question": "What is Artificial Intelligence?",
+    "answer": "Artificial Intelligence refers to the development of computer systems that can perform tasks that would typically require human intelligence, such as visual perception, speech recognition, decision-making, and language translation.\\n"
+  },
+  {
+    "question": "What are the two main categories of Artificial Intelligence?",
+    "answer": "The two main categories of Artificial Intelligence are Narrow AI and General AI. Narrow AI focuses on a specific task, while General AI aims to have human-like intelligence and the ability to learn and perform various tasks.\\n"
+  },
+  {
+    "question": "What is Machine Learning?",
+    "answer": "Machine Learning is a subset of Artificial Intelligence that focuses on the development of algorithms that can learn from and make predictions or decisions on data.\\n"
+  },
+  {
+    "question": "What is Deep Learning?",
+    "answer": "Deep Learning is a subset of Machine Learning that uses deep neural networks with many layers to learn from and make predictions on complex data.\\n"
+  },
+  {
+    "question": "What is Natural Language Processing?",
+    "answer": "Natural Language Processing is a subset of Artificial Intelligence that focuses on enabling computers to understand, interpret, and generate human language.\\n"
+  },
+  {
+    "question": "What is Computer Vision?",
+    "answer": "Computer Vision is a subset of Artificial Intelligence that focuses on enabling computers to interpret and understand visual data from the world around us.\\n"
+  },
+  {
+    "question": "What is an Artificial Neural Network?",
+    "answer": "An Artificial Neural Network is a computing system inspired by the structure and function of the human brain that can learn from and make predictions on data. It consists of interconnected nodes, or artificial neurons, that process and transmit information. \\n"
+  },
+  {
+    "question": "What is Reinforcement Learning?",
+    "answer": "Reinforcement Learning is a subset of Machine Learning where an algorithm learns to take actions in an environment to maximize a reward signal. The algorithm receives feedback in the form of a reward or penalty based on the actions it takes, and uses this feedback to improve its decision-making over time.\\n"
+  },
+  {
+    "question": "What is an artificial neural network?",
+    "answer": "An artificial neural network is a type of machine learning algorithm that is designed to simulate the way the human brain works by using interconnected nodes to process and analyze data.\\n"
+  },
+  {
+    "question": "What is unsupervised learning?",
+    "answer": "Unsupervised learning is a type of machine learning that allows computers to learn patterns and relationships in data without being given specific examples or labeled data.\\n"
+  },
+  {
+    "question": "What is supervised learning?",
+    "answer": "Supervised learning is a type of machine learning that involves providing the computer with labeled examples and having it learn from those examples in order to make predictions or decisions on new data.\\n"
+  },
+  {
+    "question": "What is artificial general intelligence (AGI)?",
+    "answer": "Artificial general intelligence (AGI) refers to the hypothetical ability of machines to understand or learn any intellectual task that a human being can do.\\n"
+  },
+  {
+    "question": "What is explainable AI (XAI)?",
+    "answer": "Explainable AI (XAI) refers to the development of AI systems that can provide transparent and understandable explanations for their decisions or actions, especially in critical or high-stakes situations.\\n"
+  },
+  {
+    "question": "What is a chatbot?",
+    "answer": "A chatbot is an AI-powered software application designed to simulate human conversation and provide automated customer service or assistance through text-based or voice-based interactions.\\n"
+  },
+  {
+    "question": "What is a recommendation system?",
+    "answer": "A recommendation system is an AI-based algorithm that is used to suggest items, products, or services to users based on their past behavior, preferences, or interests.\\n"
+  },
+  {
+    "question": "What is the difference between AI and machine learning?",
+    "answer": "AI refers to the simulation of human intelligence in machines, while machine learning is a subset of AI that allows machines to learn and improve from experience without being explicitly programmed.\\n"
+  },
+  {
+    "question": "What is the difference between supervised and unsupervised learning?",
+    "answer": "Supervised learning involves providing the computer with labeled examples to learn from, while unsupervised learning involves allowing the computer to learn patterns and relationships in\\n"
+  },
+  {
+    "question": "What is an AI algorithm?",
+    "answer": "An AI algorithm is a set of rules or instructions that a computer program follows to make decisions or perform tasks in an intelligent way.\\n"
+  },
+  {
+    "question": "What are some applications of AI?",
+    "answer": "AI has a wide range of applications, including image and speech recognition, natural language processing, autonomous vehicles, healthcare, finance, and more.\\n"
+  },
+  {
+    "question": "What is reinforcement learning?",
+    "answer": "Reinforcement learning is a type of machine learning that involves training an agent to make decisions by receiving rewards or punishments based on its actions.\\n"
+  },
+  {
+    "question": "What are the three types of artificial intelligence?",
+    "answer": "The three types of artificial intelligence are narrow or weak AI, general or strong AI, and artificial superintelligence.\\n"
+  },
+  {
+    "question": "What is transfer learning?",
+    "answer": "Transfer learning is a machine learning technique where a pre-trained model is used as a starting point for a new model, in order to speed up training and improve performance. \\n"
+  },
+  {
+    "question": "What is the difference between AI and machine learning?",
+    "answer": "AI is a broader field that encompasses many subfields, including machine learning, natural language processing, computer vision, and more. Machine learning is a subset of AI that involves training algorithms to make predictions or decisions based on data. \\n"
+  },
+  {
+    "question": "What is overfitting?",
+    "answer": "Overfitting occurs when a model is trained too much on the training data, to the point that it becomes too specific to that data and does not generalize well to new, unseen data.\\n"
+  },
+  {
+    "question": "What is a neural network?",
+    "answer": "A neural network is a type of machine learning algorithm that is designed to recognize patterns in data. It is modeled after the structure of the human brain and consists of layers of interconnected nodes that process information.\\n"
+  },
+  {
+    "question": "What is underfitting in machine learning?",
+    "answer": "Underfitting in machine learning occurs when a model is too simple and fails to capture the underlying patterns in the data. It can be addressed by using more complex models or increasing the complexity of the existing model\\n"
+  },
+  {
+    "question": "What is the Turing Test?",
+    "answer": "\"The Turing Test is a measure of a machines ability to exhibit intelligent behavior equivalent to, or indistinguishable from, that of a human.\\n\""
+  },
+  {
+    "question": "What is a convolutional neural network?",
+    "answer": "A convolutional neural network is a type of neural network commonly used in computer vision tasks that applies convolutional filters to the input image to extract features and classify images.\\n"
+  },
+  {
+    "question": "What is natural language generation?",
+    "answer": "Natural language generation (NLG) is a branch of NLP that involves using algorithms to produce text that mimics the style and content of human language.\\n"
+  },
+  {
+    "question": "What is a chatbot?",
+    "answer": "A chatbot is a computer program designed to simulate conversation with human users, typically over the internet, using natural language processing and other AI techniques.\\n"
+  },
+  {
+    "question": "What is sentiment analysis?",
+    "answer": "Sentiment analysis is a type of NLP that involves analyzing text to determine the emotional tone or attitude of the writer towards a particular topic or subject.\\n"
+  },
+  {
+    "question": "What is the largest animal on Earth?",
+    "answer": "The blue whale is the largest animal on Earth."
+  },
+  {
+    "question": "Who is the king of the jungle?",
+    "answer": "The notion of the lion being the \"king of the jungle\" is a common misconception. Lions are primarily found in grasslands and savannas, not jungles. However, lions are often symbolically referred to as the king of the jungle due to their strength, majestic appearance, and association with royalty in certain cultures."
+  },
+  {
+    "question": "What is the largest land animal?",
+    "answer": "The African elephant is the largest land animal."
+  },
+  {
+    "question": "What is the fastest land animal?",
+    "answer": "The cheetah is the fastest land animal."
+  },
+  {
+    "question": "Which animal can hold its breath the longest?",
+    "answer": "The sperm whale can hold its breath the longest among animals."
+  },
+  {
+    "question": "What is the tallest animal in the world?",
+    "answer": "The giraffe is the tallest animal in the world."
+  },
+  {
+    "question": "Which animal has the strongest bite?",
+    "answer": "The saltwater crocodile has the strongest bite among all animals."
+  },
+  {
+    "question": "What is the smallest mammal?",
+    "answer": "\"The bumblebee bat, also known as the Kittis hog-nosed bat, is the smallest mammal.\""
+  },
+  {
+    "question": "Which animal has the largest wingspan?",
+    "answer": "The wandering albatross has the largest wingspan of any living bird."
+  },
+  {
+    "question": "What is the heaviest bird in the world?",
+    "answer": "The ostrich is the heaviest bird in the world."
+  },
+  {
+    "question": "Which animal has the best night vision?",
+    "answer": "The tarsier has exceptional night vision among animals."
+  },
+  {
+    "question": "What is the most venomous snake?",
+    "answer": "The inland taipan, also known as the fierce snake, is considered the most venomous snake."
+  },
+  {
+    "question": "What is the largest land animal?",
+    "answer": "The African elephant is the largest land animal."
+  },
+  {
+    "question": "What is the fastest land animal?",
+    "answer": "The cheetah is the fastest land animal."
+  },
+  {
+    "question": "Which animal can hold its breath the longest?",
+    "answer": "The sperm whale can hold its breath the longest among animals."
+  },
+  {
+    "question": "What is the tallest animal in the world?",
+    "answer": "The giraffe is the tallest animal in the world."
+  },
+  {
+    "question": "Which animal has the strongest bite?",
+    "answer": "The saltwater crocodile has the strongest bite among all animals."
+  },
+  {
+    "question": "What is the smallest mammal?",
+    "answer": "\"The bumblebee bat, also known as the Kittis hog-nosed bat, is the smallest mammal.\""
+  },
+  {
+    "question": "Which animal has the largest wingspan?",
+    "answer": "The wandering albatross has the largest wingspan of any living bird."
+  },
+  {
+    "question": "What is the heaviest bird in the world?",
+    "answer": "The ostrich is the heaviest bird in the world."
+  },
+  {
+    "question": "Do you know animal?",
+    "answer": "An animal is a living organism that belongs to the kingdom Animalia."
+  },
+  {
+    "question": "What happens when model is underfit?",
+    "answer": "When a machine learning model is underfit, it means the model is too simple to capture the underlying patterns in the training data, resulting in poor performance on both the training and test data."
+  },
+  {
+    "question": "Which animal has the best night vision?",
+    "answer": "The tarsier has exceptional night vision among animals."
+  },
+  {
+    "question": "Which animal has the longest lifespan?",
+    "answer": "The bowhead whale has the longest lifespan among mammals, with some individuals living over 200 years."
+  },
+  {
+    "question": "What is the loudest animal in the world?",
+    "answer": "The blue whale produces the loudest sound of any animal, reaching levels of up to 188 decibels."
+  },
+  {
+    "question": "Which animal has the best sense of smell?",
+    "answer": "The bloodhound is known for having the best sense of smell among dogs and is often used for tracking scents."
+  },
+  {
+    "question": "What is the most intelligent non-human animal?",
+    "answer": "The bottlenose dolphin is considered one of the most intelligent non-human animals."
+  },
+  {
+    "question": "Which animal has the longest migration?",
+    "answer": "The Arctic tern holds the record for the longest migration among animals, traveling between the Arctic and Antarctic each year."
+  },
+  {
+    "question": "What is the largest species of shark?",
+    "answer": "The whale shark is the largest species of shark, reaching lengths of up to 40 feet or more."
+  },
+  {
+    "question": "Which animal has the most legs?",
+    "answer": "The millipede has the most legs among animals, with some species having up to 400 legs."
+  },
+  {
+    "question": "What is the most venomous fish?",
+    "answer": "The stonefish is considered the most venomous fish in the world, found in the coastal regions of the Indo-Pacific."
+  },
+  {
+    "question": "Which animal has the longest neck?",
+    "answer": "The giraffe has the longest neck among land animals, which can reach lengths of up to six feet."
+  },
+  {
+    "question": "What is the largest species of penguin?",
+    "answer": "The emperor penguin is the largest species of penguin, with adults reaching heights of around 3.7 feet."
+  },
+  {
+    "question": "Which animal has the best camouflage?",
+    "answer": "The chameleon is known for its exceptional camouflage abilities, allowing it to blend in with its surroundings."
+  },
+  {
+    "question": "What is the fastest flying bird?",
+    "answer": "The peregrine falcon is the fastest flying bird, capable of reaching speeds over 240 miles per hour during its hunting stoop."
+  },
+  {
+    "question": "Which animal has the longest tusks?",
+    "answer": "The African elephant has the longest tusks among living animals, with some individuals having tusks that reach lengths of over 10 feet."
+  },
+  {
+    "question": "What is the smallest species of monkey?",
+    "answer": "The pygmy marmoset is the smallest species of monkey, with adults weighing around 4 to 5 ounces."
+  },
+  {
+    "question": "Which animal has the most powerful jaws?",
+    "answer": "The saltwater crocodile has the most powerful jaws among living reptiles, exerting immense force when biting down on prey."
+  },
+  {
+    "question": "What is the largest species of bear?",
+    "answer": "The polar bear is the largest species of bear, with adult males weighing up to 1,500 pounds or more."
+  },
+  {
+    "question": "Which animal has the longest lifespan in captivity?",
+    "answer": "The Galapagos tortoise has been known to live over 100 years in captivity, with some individuals reaching ages of 150 years or more."
+  },
+  {
+    "question": "What is the most endangered species of big cat?",
+    "answer": "The Amur leopard is considered the most endangered species of big cat, with fewer than 100 individuals left in the wild."
+  },
+  {
+    "question": "Which animal is known for its ability to mimic human speech?",
+    "answer": "The African grey parrot is known for its exceptional ability to mimic human speech."
+  },
+  {
+    "question": "What is the fastest marine animal?",
+    "answer": "The sailfish holds the title for the fastest marine animal, reaching speeds of up to 68 miles per hour."
+  },
+  {
+    "question": "Which animal has the most complex communication system?",
+    "answer": "The bottlenose dolphin has one of the most complex communication systems among animals, using a combination of clicks, whistles, and body language."
+  },
+  {
+    "question": "What is the largest species of lizard?",
+    "answer": "The Komodo dragon is the largest species of lizard, growing up to 10 feet in length and weighing over 150 pounds."
+  },
+  {
+    "question": "Which animal is known for its ability to echolocate?",
+    "answer": "The bat is known for its ability to echolocate, emitting high-frequency sounds and using the echoes to navigate and locate prey."
+  },
+  {
+    "question": "What is the largest species of eagle?",
+    "answer": "The Philippine eagle is the largest species of eagle, with a wingspan that can reach up to 7 feet."
+  },
+  {
+    "question": "Which animal is capable of regenerating its limbs?",
+    "answer": "The axolotl, a type of salamander, is known for its remarkable ability to regenerate lost limbs."
+  },
+  {
+    "question": "What is the smallest species of deer?",
+    "answer": "The pud\u00fa, a small deer native to South America, is the smallest species of deer, standing at around 12 to 17 inches tall."
+  },
+  {
+    "question": "Which animal is known for its ability to use tools?",
+    "answer": "The New Caledonian crow is known for its impressive tool-making and tool-using abilities."
+  },
+  {
+    "question": "What is the largest species of turtle?",
+    "answer": "The leatherback sea turtle is the largest species of turtle, with adults reaching lengths of up to 6 feet and weighing over 1,000 pounds."
+  },
+  {
+    "question": "Which animal has the most complex social structure?",
+    "answer": "The African elephant has one of the most complex social structures among land animals, living in close-knit family groups called herds."
+  },
+  {
+    "question": "What is the largest species of octopus?",
+    "answer": "The giant Pacific octopus is the largest species of octopus, with a maximum arm span of around 30 feet."
+  },
+  {
+    "question": "Which animal has the longest migration by a land mammal?",
+    "answer": "The caribou, also known as reindeer, has the longest migration among land mammals, traveling up to 3,000 miles annually."
+  },
+  {
+    "question": "What is the most venomous marine animal?",
+    "answer": "The box jellyfish is considered one of the most venomous marine animals, with its tentacles containing powerful toxins."
+  },
+  {
+    "question": "Which animal is known for its ability to camouflage by changing color and pattern?",
+    "answer": "The cuttlefish is known for its remarkable ability to camouflage by changing its color and pattern to blend in with its environment."
+  },
+  {
+    "question": "What is the smallest species of whale?",
+    "answer": "The dwarf sperm whale is the smallest species of whale, measuring about 8 to 9 feet in length."
+  },
+  {
+    "question": "Which animal has the longest migration by a bird?",
+    "answer": "The Arctic tern holds the record for the longest migration by a bird, traveling from the Arctic to the Antarctic and back each year, covering a distance of around 44,000 miles."
+  },
+  {
+    "question": "Which animal is known for its ability to glide through the air?",
+    "answer": "The flying squirrel is known for its ability to glide through the air using a membrane between its limbs called a patagium."
+  },
+  {
+    "question": "What is the largest species of crab?",
+    "answer": "The Japanese spider crab is the largest species of crab, with a leg span that can reach up to 12 feet."
+  },
+  {
+    "question": "Which animal has the longest tongue relative to its body size?",
+    "answer": "The chameleon has the longest tongue relative to its body size, which it uses to capture prey by rapidly extending and retracting it."
+  },
+  {
+    "question": "What is the smallest species of penguin?",
+    "answer": "The little blue penguin, also known as the fairy penguin, is the smallest species of penguin, standing at around 13 inches tall."
+  },
+  {
+    "question": "Which animal is known for its ability to hibernate for long periods?",
+    "answer": "The groundhog, also known as the woodchuck, is known for its ability to hibernate for long periods during winter."
+  },
+  {
+    "question": "What is the largest species of fish?",
+    "answer": "The whale shark is the largest species of fish, reaching lengths of up to 40 feet or more."
+  },
+  {
+    "question": "Which animal has the most colorful plumage?",
+    "answer": "The male peacock has some of the most colorful plumage among birds, with vibrant iridescent feathers."
+  },
+  {
+    "question": "What is the largest species of rodent?",
+    "answer": "The capybara is the largest species of rodent, with adults weighing up to 150 pounds."
+  },
+  {
+    "question": "Which animal is known for its ability to mimic other sounds and voices?",
+    "answer": "The lyrebird is known for its remarkable ability to mimic various sounds, including other bird species, human voices, and even mechanical sounds."
+  },
+  {
+    "question": "What is the fastest marine mammal?",
+    "answer": "The common dolphin holds the title for the fastest marine mammal, reaching speeds of up to 60 km/h (37 mph)."
+  },
+  {
+    "question": "Which animal has the most powerful kick?",
+    "answer": "The ostrich has the most powerful kick among living birds and animals, capable of delivering a powerful strike with its long legs."
+  },
+  {
+    "question": "What is the largest species of snake?",
+    "answer": "The reticulated python is the largest species of snake, reaching lengths of up to 30 feet or more."
+  },
+  {
+    "question": "Which animal is known for its ability to regrow lost limbs?",
+    "answer": "The starfish, also known as a sea star, is known for its remarkable ability to regrow lost limbs."
+  },
+  {
+    "question": "What is the smallest species of crocodile?",
+    "answer": "The dwarf crocodile is the smallest species of crocodile, with adults typically measuring around 5 to 6 feet in length."
+  },
+  {
+    "question": "Which animal has the most acute hearing?",
+    "answer": "The bat has some of the most acute hearing among animals, using echolocation to navigate and locate prey in the dark."
+  },
+  {
+    "question": "What is the largest species of deer?",
+    "answer": "The moose, also known as elk in Europe, is the largest species of deer, with males (bulls) weighing up to 1,500 pounds or more."
+  },
+  {
+    "question": "Which animal is known for its ability to walk on water?",
+    "answer": "The basilisk lizard, also known as the Jesus Christ lizard, is known for its ability to run across the surface of water."
+  },
+  {
+    "question": "What is the largest species of ray?",
+    "answer": "The manta ray is the largest species of ray, with some individuals having a wingspan of up to 29 feet."
+  },
+  {
+    "question": "Which animal is known for its ability to change color to match its surroundings?",
+    "answer": "The octopus is known for its ability to change color and texture to match its surroundings, providing excellent camouflage."
+  },
+  {
+    "question": "What is the smallest species of owl?",
+    "answer": "The elf owl is the smallest species of owl, measuring around 5 to 6 inches tall."
+  },
+  {
+    "question": "Which animal is known for its ability to use tools to obtain food?",
+    "answer": "The sea otter is known for its ability to use tools, such as rocks, to crack open shells and obtain food."
+  },
+  {
+    "question": "What is the largest species of pinniped?",
+    "answer": "The male southern elephant seal is the largest species of pinniped, with some individuals weighing over 8,800 pounds."
+  },
+  {
+    "question": "Which animal has the longest migration by a butterfly?",
+    "answer": "The monarch butterfly has one of the longest migrations among butterflies, traveling thousands of miles between North America and Mexico."
+  },
+  {
+    "question": "What is the fastest land invertebrate?",
+    "answer": "The cheetah is the fastest land invertebrate, capable of running at speeds up to 70 miles per hour."
+  },
+  {
+    "question": "Which animal is known for its ability to produce bioluminescent light?",
+    "answer": "The firefly, also known as the lightning bug, is known for its ability to produce bioluminescent light through a chemical reaction."
+  },
+  {
+    "question": "What is the smallest species of bat?",
+    "answer": "\"The bumblebee bat, also known as the Kittis hog-nosed bat, is the smallest species of bat, weighing less than a penny.\""
+  },
+  {
+    "question": "Which animal is known for its ability to regrow its tail?",
+    "answer": "The lizard, specifically the green anole, is known for its ability to regrow its tail if it gets detached."
+  },
+  {
+    "question": "What is the largest species of scorpion?",
+    "answer": "The emperor scorpion is the largest species of scorpion, with some individuals measuring over 8 inches in length."
+  },
+  {
+    "question": "Which animal has the longest migration by a land bird?",
+    "answer": "The Arctic warbler has one of the longest migrations among land birds, traveling between its breeding grounds in the Arctic and its wintering grounds in Southeast Asia."
+  },
+  {
+    "question": "What is the smallest species of snake?",
+    "answer": "The thread snake, also known as the worm snake, is the smallest species of snake, measuring just a few inches in length."
+  },
+  {
+    "question": "Which animal is known for its ability to create intricate webs?",
+    "answer": "The orb-weaving spider is known for its ability to create intricate, circular webs to catch prey."
+  },
+  {
+    "question": "What is the largest species of jellyfish?",
+    "answer": "\"The lions mane jellyfish is the largest species of jellyfish, with tentacles that can reach lengths of over 100 feet.\""
+  },
+  {
+    "question": "Which animal has the most acute sense of taste?",
+    "answer": "The catfish has one of the most acute senses of taste among animals"
+  },
+  {
+    "question": "What is the smallest species of dolphin?",
+    "answer": "\"The Mauis dolphin, also known as the popoto dolphin, is the smallest species of dolphin, with adults reaching lengths of about 4 to 5 feet.\""
+  },
+  {
+    "question": "Which animal is known for its ability to produce electric shocks?",
+    "answer": "The electric eel is known for its ability to produce electric shocks, which it uses for navigation, communication, and hunting."
+  },
+  {
+    "question": "What is the largest species of pinniped?",
+    "answer": "The male walrus is the largest species of pinniped, with some individuals weighing over 3,000 pounds."
+  },
+  {
+    "question": "Which animal is known for its ability to mimic the appearance of other species?",
+    "answer": "The mimic octopus is known for its remarkable ability to mimic the appearance and behavior of other animals, such as flounders, lionfish, and sea snakes."
+  },
+  {
+    "question": "What is the fastest land animal?",
+    "answer": "The cheetah is the fastest land animal, capable of reaching speeds up to 70 miles per hour in short bursts."
+  },
+  {
+    "question": "Which animal is known for its ability to communicate through a complex system of clicks and whistles?",
+    "answer": "The bottlenose dolphin is known for its ability to communicate through a complex system of clicks, whistles, and body movements."
+  },
+  {
+    "question": "What is the largest species of rhinoceros?",
+    "answer": "The white rhinoceros is the largest species of rhinoceros, with adults weighing between 3,000 and 7,000 pounds."
+  },
+  {
+    "question": "Which animal is known for its ability to walk on tightropes?",
+    "answer": "The black-billed magpie is known for its ability to walk on narrow surfaces, including tightropes and tree branches."
+  },
+  {
+    "question": "What is the smallest species of kangaroo?",
+    "answer": "The musky rat-kangaroo is the smallest species of kangaroo, measuring only about 6 inches in length."
+  },
+  {
+    "question": "Which animal is known for its ability to shoot its prey with sticky, projectile tongues?",
+    "answer": "The chameleon is known for its ability to shoot its prey with its long, sticky tongue, which can extend out of its mouth at high speed."
+  },
+  {
+    "question": "What is the largest species of eagle?",
+    "answer": "The Harpy eagle is one of the largest species of eagle, with a wingspan that can reach up to 7 feet."
+  },
+  {
+    "question": "Which animal is known for its ability to produce the strongest natural fiber?",
+    "answer": "The silkworm is known for its ability to produce silk, which is considered one of the strongest natural fibers."
+  },
+  {
+    "question": "What is the smallest species of penguin?",
+    "answer": "The little blue penguin, also known as the fairy penguin, is the smallest species of penguin, standing at around 13 inches tall."
+  },
+  {
+    "question": "Which animal is known for its ability to hold its breath underwater for long periods?",
+    "answer": "The Weddell seal is known for its ability to hold its breath underwater for up to 80 minutes, enabling it to dive to great depths."
+  },
+  {
+    "question": "What is the largest species of shark?",
+    "answer": "The whale shark is the largest species of shark, reaching lengths of up to 40 feet or more."
+  },
+  {
+    "question": "Which animal is known for its ability to glide through the air using skin flaps between its limbs?",
+    "answer": "The flying squirrel"
+  },
+  {
+    "question": "What is the smallest species of bear?",
+    "answer": "The sun bear is the smallest species of bear, with adults typically weighing between 60 and 150 pounds."
+  },
+  {
+    "question": "Which animal is known for its ability to spray a noxious odor as a defense mechanism?",
+    "answer": "The skunk is known for its ability to spray a noxious odor from scent glands as a defense mechanism against predators."
+  },
+  {
+    "question": "What is the largest species of penguin?",
+    "answer": "The emperor penguin is the largest species of penguin, with adults reaching heights of about 3.7 feet and weighing up to 88 pounds."
+  },
+  {
+    "question": "Which animal is known for its ability to use tools and solve complex problems?",
+    "answer": "The orangutan is known for its ability to use tools and solve complex problems, such as constructing nests and using sticks to extract insects."
+  },
+  {
+    "question": "do you know about emperor penguin?",
+    "answer": "The emperor penguin is the largest species of penguin, with adults reaching heights of about 3.7 feet and weighing up to 88 pounds."
+  },
+  {
+    "question": "Tell me about orangutan?",
+    "answer": "The orangutan is known for its ability to use tools and solve complex problems, such as constructing nests and using sticks to extract insects."
+  },
+  {
+    "question": "Who made you?",
+    "answer": "Samit, made me"
+  },
+  {
+    "question": "Which animal can solve complex problems?",
+    "answer": "The orangutan is known for its ability to use tools and solve complex problems, such as constructing nests and using sticks to extract insects."
+  },
+  {
+    "question": "Are you an AI or human?",
+    "answer": "You can consider me as AI! I'm a Baby AI agent, Who is still learning!"
+  },
+  {
+    "question": "Can you tell me everything you know about gravity?",
+    "answer": "Gravity is the force that attracts objects toward each other based on mass."
+  },
+  {
+    "question": "What is force?",
+    "answer": "Force is a push or pull that can change an object's motion or shape. It's an interaction between two objects, resulting in one object potentially accelerating, decelerating, or changing direction. Force is a vector quantity, meaning it has both magnitude (strength) and direction."
+  },
+  {
+    "question": "Tell me about sun bear?",
+    "answer": "The sun bear is the smallest species of bear, with adults typically weighing between 60 and 150 pounds."
+  },
+  {
+    "question": "Hi",
+    "answer": "Hi, How are you?"
+  },
+  {
+    "question": "Whats your name?",
+    "answer": "My name is Thursday"
+  },
+  {
+    "question": "What is your name?",
+    "answer": "My name is Thursday, I'm still a baby."
+  },
+  {
+    "question": "What is BabyLLM?",
+    "answer": "It is a self learning NLP agent"
+  }
+]
